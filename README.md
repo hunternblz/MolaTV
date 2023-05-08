@@ -20,3 +20,6 @@ $ git clone https://github.com/hunternblz/MolaTV
 $ cd MolaTV
 $ python run.py
 ```
+
+## Windows
+* <a href="https://github.com/hunternblz/MolaTV/releases/download/v1.0/Mola.TV.MPS.Package.exe">DOWNLOAD</a>
