@@ -9,6 +9,7 @@ import os
 import subprocess
 
 if __name__ == "__main__":
+	os.system('git pull')
 	os.system('clear')
 	try:
 		result = subprocess.run(["uname", "-m"], capture_output=True, text=True)
