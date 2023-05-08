@@ -7,6 +7,8 @@ Mola TV MPS Package
   <img src="https://user-images.githubusercontent.com/34278783/236753585-0bd45537-6e97-4107-acdb-dfd656fbd8f8.png" width="640" title="Screenshot" alt="Screenshot">
 </p>
 
+# ⚠️ Terkadang server Temp Email down, Jadi sementara gunakan Nomor 2.
+
 ## Termux
 
 * Termux v0.118 : <a href="https://f-droid.org/repo/com.termux_118.apk">DOWNLOAD</a>
