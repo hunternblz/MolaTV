@@ -7,6 +7,9 @@ Mola TV MPS Package
   <img src="https://user-images.githubusercontent.com/34278783/237008678-c97d8050-e17f-4834-a0a8-b5fc7bc2c611.png" width="640" title="Screenshot" alt="Screenshot">
 </p>
 
+> **Note**  
+> Jika <b>Gagal Mendaftar Akun MolaTV</b> kemungkinan IP sudah terdeteksi, Solusinya ganti IP.
+
 ## Termux
 
 * Termux v0.118 : <a href="https://f-droid.org/repo/com.termux_118.apk">DOWNLOAD</a>
