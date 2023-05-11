@@ -16,10 +16,11 @@ $ pkg update -y
 $ pkg upgrade -y
 $ pkg install git -y
 $ pkg install python -y
+$ rm -rf MolaTV
 $ git clone https://github.com/hunternblz/MolaTV
 $ cd MolaTV
 $ python run.py
 ```
 
 ## Windows
-* <a href="https://github.com/hunternblz/MolaTV/releases/download/V1.4/Mola.TV.MPS.Package.exe">DOWNLOAD V1.4</a>
+* <a href="https://github.com/hunternblz/MolaTV/releases/download/V1.5/Mola.TV.MPS.Package.exe">DOWNLOAD V1.5</a>
