@@ -23,4 +23,4 @@ $ python run.py
 ```
 
 ## Windows
-* <a href="https://github.com/hunternblz/MolaTV/releases/download/V1.5/Mola.TV.MPS.Package.exe">DOWNLOAD V1.5</a>
+* <a href="https://github.com/hunternblz/MolaTV/releases/download/https://github.com/hunternblz/MolaTV/releases/latest/download/Mola.TV.MPS.Package.exe">DOWNLOAD V1.5</a>
