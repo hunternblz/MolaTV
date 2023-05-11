@@ -15,9 +15,9 @@ if __name__ == "__main__":
 		result = subprocess.run(["uname", "-m"], capture_output=True, text=True)
 		if result.returncode == 0:
 			architecture = result.stdout.strip()
-			if architecture == "aarch32":
+			if architecture == "aarch64":
 				__import__("HunterNblz").main()
 			else:
-				print("[!] Perangkat Harus 32 64 Bit [!]\n")
+				print("[!] Perangkat Harus 64 Bit [!]\n")
 	except Exception as e:
 		exit(str(e))
